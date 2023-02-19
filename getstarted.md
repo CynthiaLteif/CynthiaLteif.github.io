@@ -1,3 +1,5 @@
+<html>
+  <head>
 Getting started is *literally* as easy as 1-2-3 :smile:
 
 <div class="gs-section-01" markdown="1">
@@ -5,7 +7,8 @@ Getting started is *literally* as easy as 1-2-3 :smile:
 Scroll down to see the steps involved, but here is a 40-second video just as a reference as you work through the steps. If you don't already have a [GitHub account](https://github.com/join), you'll need to sign up.
 
 ![Installation steps](assets/img/install-steps.gif)
-
+</head>
+ <body>
 <div class="gs-section-02" markdown="1">
 
 ### 1. Fork this project
@@ -35,35 +38,37 @@ Note that in the video above only one setting in the `_config.yml` file is edite
 </div>
 </div>
 <style>
-.gs-section-01 h2 {
-  color: blue;
+.gs-section-01 h2 { 
+  color: blue; 
 }
 
-.gs-section-01 p {
-  font-size: 40px;
-}
-     
-.gs-section-02 h3 {
-  color: red;
+.gs-section-01 p { 
+  font-size: 40px; 
 }
 
-.gs-section-02 p {
-  font-size: 30px;
-}
-     
-.gs-section-03 h3 {
-  color: green;
+.gs-section-02 h3 { 
+  color: red; 
 }
 
-.gs-section-03 p {
-  font-size: 30px;
-}
-     
-.gs-section-04 h3 {
-  color: purple;
+.gs-section-02 p { 
+  font-size: 30px; 
 }
 
-.gs-section-04 p {
-  font-size: 30px;
+.gs-section-03 h3 { 
+  color: green; 
+}
+
+.gs-section-03 p { 
+  font-size: 30px; 
+}
+
+.gs-section-04 h3 { 
+  color: purple; 
+}
+
+.gs-section-04 p { 
+  font-size: 30px; 
 }
 </style>
+</body>
+</html>
