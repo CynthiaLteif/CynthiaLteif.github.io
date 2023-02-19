@@ -181,8 +181,8 @@ layout: default
         ###
 
         ---
-       layout: liquid-table
-       title: 'amiright?'
+        layout: liquid-table
+        title: 'amiright?'
         reynolds:
           strengths:
           - good father
