@@ -1,6 +1,6 @@
 ---
-layout: liquid-table
-title: 'amiright?'
+layout: default
+title: 'table-demo'
 reynolds:
   strengths:
   - good father
