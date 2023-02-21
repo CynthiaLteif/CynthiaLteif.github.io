@@ -19,7 +19,7 @@ author: Cynthia Lteif
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://cynthialteif.github.io/beautiful-jekyll/"
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - Getting Started: "getstarted"                         
   Table Demo: "table-demo" 
