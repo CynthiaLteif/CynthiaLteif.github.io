@@ -13,4 +13,4 @@ What else do you need?
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://www.imdb.com/video/vi1101988121/?ref_=tt_vi_i_1) and it will answer **all** your questions.
+I'm originally from Beirut and studying online through the AGFE program. 
